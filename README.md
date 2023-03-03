@@ -5,7 +5,15 @@ Play music, listen to Lo-Fi radio, Play blackjack, crash, horseracing and many m
 - Sadly, it stopped working as the bot cannot get into more than 100 servers, reached 97 servers.
 - So, I decided to share how I built it, hoping it will help someone!
 
+## Previews
+<img width="698" alt="Screenshot 2022-09-02 031714" src="https://user-images.githubusercontent.com/101992888/222702879-670aa892-3e77-4626-b65d-8dd9a504c025.png">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/101992888/220784649-be4f22f6-fb12-4853-96f8-210844deed8c.png?raw=true" alt="Burger Logo"/>
-</p>
+
+## 
+<img width="694" alt="Screenshot 2022-09-02 031907" src="https://user-images.githubusercontent.com/101992888/222702458-653870d4-e94c-4725-8809-19cc15beedfc.png">
+
+## 
+<img width="694" alt="Screenshot 2022-09-02 031934" src="https://user-images.githubusercontent.com/101992888/222702649-a6571905-8b0c-4723-ae91-b7fdc28bd066.png">
+
+## 
+<img width="697" alt="Screenshot 2022-09-02 032031" src="https://user-images.githubusercontent.com/101992888/222702844-79a98b1d-d879-4591-8e31-65084d3b7019.png">
