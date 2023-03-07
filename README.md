@@ -1,5 +1,54 @@
 ## Burger
-Play music, listen to Lo-Fi radio, Play blackjack, crash, horseracing and many more with Burger Bot on Discord. 
+Play music, listen to Lo-Fi radio, Play blackjack, crash, horseracing and many more with Burger Bot on Discord.
+
+## Commands
+### Music
+- Play
+- Stop
+- Pause
+- Resume
+- Queue
+- Loop
+- SKipTo
+- Skip
+- Seek
+- Clear
+- NowPlaying
+- Leave
+- Remove
+- Volume
+- Shuffle
+- Lyrics
+
+### Casino Games
+- blackjack
+- crash
+- dice
+- highlow
+- hr
+- trivia
+- bal
+- wage
+- vote
+- leaderboard
+
+### Lo-Fi
+- Lofi
+- Leave
+- NowPlaying
+- Skip
+- Pause
+- Resume
+- Volume
+
+### Other
+- Burger
+- ServerInfo
+- Delete
+- CoinFLip
+- Help
+- Meme
+- Stats
 
 ## Note
 - Sadly, it stopped working as the bot cannot get into more than 100 servers, reached 97 servers.
