@@ -78,7 +78,7 @@ Sadly, the bot encountered limitations and can no longer join additional servers
 
 2. **Navigate to the project directory**:
    ```
-   cd DiscordBot
+   cd Burger
    ```
 
 3. **Install Dependencies with Maven**:
